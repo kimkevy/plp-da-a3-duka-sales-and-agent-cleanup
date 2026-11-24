@@ -1,0 +1,7 @@
+duka_sales.csv
+agents.csv
+agent_transactions.csv
+__pycache__/
+.ipynb_checkpoints/
+scratch/
+
